@@ -7,3 +7,4 @@ basic_packages:
   - python3-pip
   - python3-docker
   - rsync
+  - docker-compose
